@@ -70,7 +70,7 @@ width: 100%;}
 
 #barra .fvbarraf {
 width: 100px;
-height: 300px;
+height: 100px;
 font-family: georgia
 font-size: 10px; 
 color:#333333;
@@ -91,7 +91,7 @@ text-align:center;
 text-transform: Uppercase;
 margin: -5px;
 padding: 7px;
-height: 150px;
+height: 300px;
 text-decoration: none; 
 -moz-border-radius: 5px 5px 5px 5px;
 background-color: #493f3f;
