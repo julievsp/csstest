@@ -8,6 +8,7 @@ p, a, body, td, tr, div {
 font-style: normal;
 font-weight: normal;
 font-size: 11px;
+height: 100px;
 color: #482f34;
 font-family: verdana;
 background: #f5f5f5;
@@ -64,7 +65,7 @@ background: #221f1f;
 #barra .tubo {
 text-align:center;
 background:#221f1f;
-margin: -3px; 
+margin: 0 auto; 
 padding:0px;
 height: 10px;
 width: 100%;}
