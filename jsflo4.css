@@ -70,7 +70,7 @@ width: 100%;}
 
 #barra .fvbarraf {
 width: 100px;
-height: 10px;
+height: 300px;
 font-family: georgia
 font-size: 10px; 
 color:#333333;
@@ -104,7 +104,7 @@ cursor: Pointer;
 font-family: georgia;
 font-size: 10px;
 line-height: 0px;
-height: 150px;
+height: 300px;
 margin-top: 5px;
 letter-spacing: 1px;
 text-align:center;
