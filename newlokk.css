@@ -1,7 +1,7 @@
 body {body-align: right; width: 825px;   margin: auto;}
-html  	{background: #1e1919; border: 0px solid #e5ddd8;}
+html  	{background: #191212; border: 0px solid #e5ddd8;}
 p, a, body, td, tr, div {color: #ffffff;}
-body {background: url() #1e1919; 
+body {background: url() #191212; 
  }
    
 p, a, body, td, tr, div {
@@ -94,7 +94,7 @@ padding: 5px;
 text-decoration: none; 
 -moz-border-radius: 5px 5px 5px 5px;
 background-color: #000000;
-border: 1px dotted #ffffff;
+border: 1px dotted #2d2525;
 transition: all 0.5s ease-out;
 }
 
@@ -108,7 +108,7 @@ margin-top: 5px;
 letter-spacing: 1px;
 text-align:center;
 padding: 7px;
-border: 1px dotted #ffffff;
+border: 1px dotted #2d2525;
 text-transform: uppercase;
 text-decoration: ; 
 background-color: #5a1a28;
