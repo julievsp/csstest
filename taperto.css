@@ -1,6 +1,6 @@
 body {body-align: right; width: 825px;   margin: auto;}
 html  	{background: url(http://i63.tinypic.com/20gfup5.jpg) #191212; border: 0px solid #e5ddd8;}
-p, a, body, td, tr, div {color: #ffffff;}
+p, a, body, td, tr, div {color: #482f34;}
 body {background: url() #191212; 
  }
    
@@ -8,13 +8,13 @@ p, a, body, td, tr, div {
 font-style: normal;
 font-weight: normal;
 font-size: 11px;
-color: #ffffff;
+color: #482f34;
 font-family: verdana;
 background: #1e1919;
 }
 
 
-a, a:link{color: #7c7c7d; cursor: w-resize;
+a, a:link{ cursor: w-resize;
 TEXT-DECORATION: none; font-weight: ;}
 
 a:hover {color: #5f5f5f; cursor: w-resize;
@@ -32,12 +32,12 @@ input, textarea, select
 	{font-family: Verdana; 
 	font-size: 11px;
 	cursor: size;
-	color: #7c6c63;
-        border-bottom: 0px solid #c9c9c9;
-        border-top: 0px solid #c9c9c9;
-        border-right: 0px solid #c9c9c9;
-        border-left: 0px solid #c9c9c9;
-	background-color: #221f1f;
+	color: #482f34;
+        border-bottom: 1px solid #c9c9c9;
+        border-top: 1px solid #c9c9c9;
+        border-right: 1px solid #c9c9c9;
+        border-left: 1px solid #c9c9c9;
+	background-color: #1e1919;
         -moz-border-radius: px;
         line-height:12px;
         padding: 5px;
@@ -86,7 +86,7 @@ border: 1px dotted #000000;
 color: #d3c3b9;
 font-family: georgia;
 font-size: 10px;
-line-height: 150px;
+line-height: 350px;
 text-align:center;
 text-transform: Uppercase;
 margin: -5px;
@@ -103,7 +103,7 @@ color: #d3c3b9;
 cursor: Pointer;
 font-family: georgia;
 font-size: 10px;
-line-height: 150px;
+line-height: 350px;
 margin-top: 5px;
 letter-spacing: 1px;
 text-align:center;
