@@ -24,7 +24,7 @@ border-bottom: 0px dashed #f1e3d2;
 }
 
 
-.titulo {font: 11px georgia; font-weight: bold;text-transform: none; font-weight: italic;}
+.titulo {font: 12px georgia; font-weight: bold;text-transform: none; font-weight: italic;}
 
 /* --- caixas ---*/
 
@@ -94,8 +94,8 @@ margin: -5px;
 padding: 5px;
 text-decoration: none; 
 -moz-border-radius: 5px 5px 5px 5px;
-background-color: #9d0203;
-border: 1px dotted #2d2525;
+background-color: #8a0001;
+border: 1px dotted #fbf9f9;
 transition: all 0.5s ease-out;
 }
 
@@ -110,10 +110,10 @@ margin-top: 5px;
 letter-spacing: 1px;
 text-align:center;
 padding: 5px;
-border: 1px dotted #2d2525;
+border: 1px dotted #fbf9f9;
 text-transform: uppercase;
 text-decoration: ; 
-background-color: #8a0001;
+background-color: #9d0203;
 }
 
 
