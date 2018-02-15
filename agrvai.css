@@ -86,7 +86,7 @@ color: #d3c3b9;
 font-family: georgia;
 font-size: 10px;
 line-height: 0px;
-line-weight: 5px;
+weight-padding: 5px;
 text-align:center;
 text-transform: Uppercase;
 padding: 7px;
