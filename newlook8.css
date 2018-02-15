@@ -8,7 +8,7 @@ p, a, body, td, tr, div {
 font-style: normal;
 font-weight: normal;
 font-size: 11px;
-color: #7c6c63;
+color: #221f1f;
 font-family: verdana;
 }
 
@@ -85,7 +85,7 @@ border: 1px dotted #000000;
 color: #d3c3b9;
 font-family: georgia;
 font-size: 10px;
-line-height: 300px;
+line-height: 150px;
 text-align:center;
 text-transform: Uppercase;
 margin: -5px;
@@ -101,7 +101,7 @@ color: #d3c3b9;
 cursor: Pointer;
 font-family: georgia;
 font-size: 10px;
-line-height: 300px;
+line-height: 150px;
 margin-top: 5px;
 letter-spacing: 1px;
 text-align:center;
