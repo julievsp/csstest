@@ -83,27 +83,27 @@ border: 1px dotted #000000;
 }
 
 #barra .fvbarra a:link, #barra .fvbarra a:visited , #barra .fvbarra a:active  {
-color: #d3c3b9;
+color: #2f2925;
 font-family: georgia;
 font-size: 10px;
-line-height: 350px;
+line-height: 600px;
 text-align:center;
 text-transform: Uppercase;
 margin: -5px;
 padding: 5px;
 text-decoration: none; 
 -moz-border-radius: 5px 5px 5px 5px;
-background-color: #000000;
+background-color: #610605;
 border: 1px dotted #2d2525;
 transition: all 0.5s ease-out;
 }
 
 #barra .fvbarra a:hover {
-color: #d3c3b9;
+color: #2f2925;
 cursor: Pointer;
 font-family: georgia;
 font-size: 10px;
-line-height: 350px;
+line-height: 600px;
 margin-top: 5px;
 letter-spacing: 1px;
 text-align:center;
