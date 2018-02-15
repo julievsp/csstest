@@ -85,10 +85,10 @@ border: 1px dotted #453a3a;
 color: #d3c3b9;
 font-family: georgia;
 font-size: 10px;
-line-height: 45px;
+line-height: 0px;
 text-align:center;
 text-transform: Uppercase;
-padding: 0px;
+padding: 7px;
 height: 70px;
 text-decoration: none; 
 -moz-border-radius: 0px 0px 0px 0px;
@@ -101,15 +101,15 @@ color: #d3c3b9;
 cursor: Pointer;
 font-family: georgia;
 font-size: 10px;
-line-height: 45px;
+line-height: 0px;
 height: 70px;
 margin-top: 5px;
 letter-spacing: 1px;
 text-align:left;
-padding: 0px;
+padding: 7px;
 text-transform: uppercase;
 text-decoration: ; 
-background-color: #480412;
+background-color: #5a1a28;
 }
 
 
