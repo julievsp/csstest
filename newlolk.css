@@ -93,7 +93,8 @@ margin: -5px;
 padding: 5px;
 text-decoration: none; 
 -moz-border-radius: 5px 5px 5px 5px;
-background-color: #493f3f;
+background-color: #000000;
+border: 1px dotted #ffffff;
 transition: all 0.5s ease-out;
 }
 
@@ -107,6 +108,7 @@ margin-top: 5px;
 letter-spacing: 1px;
 text-align:center;
 padding: 7px;
+border: 1px dotted #ffffff;
 text-transform: uppercase;
 text-decoration: ; 
 background-color: #5a1a28;
