@@ -1,5 +1,5 @@
 body {body-align: right; width: 825px;   margin: auto;}
-html  	{background: url(http://i63.tinypic.com/20gfup5.jpg #191212; border: 0px solid #e5ddd8;}
+html  	{background: url(http://i63.tinypic.com/20gfup5.jpg) #191212; border: 0px solid #e5ddd8;}
 p, a, body, td, tr, div {color: #ffffff;}
 body {background: url() #191212; 
  }
@@ -93,8 +93,8 @@ margin: -5px;
 padding: 5px;
 text-decoration: none; 
 -moz-border-radius: 5px 5px 5px 5px;
-background-color: #ded8d8;
-border: 1px dotted #000000;
+background-color: #000000;
+border: 1px dotted #2d2525;
 transition: all 0.5s ease-out;
 }
 
