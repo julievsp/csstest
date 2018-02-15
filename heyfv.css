@@ -1,7 +1,7 @@
 body {body-align: right; width: 825px;   margin: auto;}
-html  	{background: #e5ddd8; border: 0px solid #e5ddd8;}
+html  	{background: #4a3f3f; border: 0px solid #e5ddd8;}
 p, a, body, td, tr, div {color: #efeae7;}
-body {background: url() #efeae7; 
+body {background: url() #4a3f3f; 
  }
    
 p, a, body, td, tr, div {
@@ -89,7 +89,7 @@ line-height: 0px;
 weight-padding: 5px;
 text-align:center;
 text-transform: Uppercase;
-margin: -7px;
+margin: -5px;
 padding: 7px;
 height: 150px;
 text-decoration: none; 
