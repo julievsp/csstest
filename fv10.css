@@ -71,14 +71,14 @@ width: 100%;}
 #barra .fvbarraf {
 width: 100px;
 height: 10px;
-font-family: Droid Serif;
+font-family: georgia
 font-size: 10px; 
 color:#333333;
 text-decoration: bold;
 text-transform: Uppercase; 
 -moz-border-radius: 0px 0px 0px 0px;
 background-color: #efeae7;
-border: 1px dotted #453a3a;
+border: 1px dotted #000000;
 }
 
 #barra .fvbarra a:link, #barra .fvbarra a:visited , #barra .fvbarra a:active  {
@@ -89,7 +89,7 @@ line-height: 0px;
 text-align:center;
 text-transform: Uppercase;
 padding: 7px;
-height: 70px;
+height: 10px;
 text-decoration: none; 
 -moz-border-radius: 0px 0px 0px 0px;
 background-color: #480412;
@@ -102,10 +102,10 @@ cursor: Pointer;
 font-family: georgia;
 font-size: 10px;
 line-height: 0px;
-height: 70px;
+height: 10px;
 margin-top: 5px;
 letter-spacing: 1px;
-text-align:left;
+text-align:center;
 padding: 7px;
 text-transform: uppercase;
 text-decoration: ; 
@@ -117,7 +117,7 @@ background-color: #5a1a28;
 font: bold 10px georgia;
 text-decoration: bold; 
 text-transform: Uppercase;
-height: 70px;
+height: 10px;
 color: #e5ddd8; 
 }
 
